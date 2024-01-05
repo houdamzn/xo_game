@@ -1,6 +1,6 @@
 # Tic Tac Toe Game:
 
-This is a simple Tic Tac Toe or XO  game implemented in Python using the Tkinter library.
+This is a simple Tic Tac Toe or XO  game implemented in Python using the Tkinter library and A* algorithm .
 
 # How to Play:
 
